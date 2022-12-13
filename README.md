@@ -44,3 +44,5 @@ I am a Java and Microsoft certified Azure developer with 5 years of experience i
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
+
+[![GitHub followers](https://img.shields.io/github/followers/VijayNarayanan?style=social)](https://github.com/vijaynarayanan-it/Vijay-Narayanan)
