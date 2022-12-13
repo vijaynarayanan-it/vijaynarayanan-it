@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vijay Narayanan</h1>
-<h3 align="center">Java and Microsoft certified Azure developer with 5 years of experience in Retail, Banking and Financial domains, having good knowledge of Java, Spring, microservices, MS Azure, Azure DevOps, REST architectures, Cloud Data Migration and Management etc. An experienced agile team member having worked in areas spanning from requirement analysis to designing architecture, coding, testing, deploying, maintaining the product. Focused to deliver the best product meeting all expectations and security parameters of an organization. I'm passionate to learn about emerging technologies in microservice architecture and cloud computing.</h3>
+
+<p align="justify">
+I am a Java and Microsoft certified Azure developer with 5 years of experience in Retail, Banking and Financial domains, having good knowledge of Java, Spring, microservices, MS Azure, Azure DevOps, REST architectures, Cloud Data Migration and Management. I'm passionate to learn about emerging technologies in microservice architecture and cloud computing.</p>
+
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaynarayanan-it&label=Profile%20views&color=0e75b6&style=flat" alt="vijaynarayanan-it" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **kubernetes, kotlin**
 
@@ -11,16 +13,12 @@
 
 - 💬 Ask me about **Java, Spring, Azure**
 
-<br/>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vijay-narayanan-it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-narayanan-it" height="30" width="40" /></a>
 <a href="https://medium.com/@vijaynarayanan.it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vijaynarayanan.it" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vijaynarayananit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vijaynarayananit" height="30" width="40" /></a>
 </p>
-
-<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -46,11 +44,3 @@
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
-
-<br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaynarayanan-it&show_icons=true&locale=en&layout=compact" alt="vijaynarayanan-it" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaynarayanan-it&show_icons=true&locale=en" alt="vijaynarayanan-it" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaynarayanan-it&" alt="vijaynarayanan-it" /></p>
