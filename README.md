@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vijay Narayanan</h1>
 
-<p align="justify">
-I am a Java and Microsoft certified Azure developer with 5 years of experience in Retail, Banking and Financial domains, having good knowledge of Java, Spring, microservices, MS Azure, Azure DevOps, REST architectures, Cloud Data Migration and Management. I'm passionate to learn about emerging technologies in microservice architecture and cloud computing.</p>
+
+I am a Java and Microsoft certified Azure developer with 5 years of experience in Retail, Banking and Financial domains, having good knowledge of Java, Spring, microservices, MS Azure, Azure DevOps, REST architectures, Cloud Data Migration and Management. 
+
+I'm passionate to learn about emerging technologies in microservice architecture and cloud computing.
 
 <br/>
 
