@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vijay Narayanan</h1>
 
+I’m a backend engineer with 7+ years of experience in the Finance domain, with a focus on banking solutions, building secure and scalable applications using Java, Spring, and microservices. As a certified Azure Developer, I’ve led successful cloud migrations and data management projects.
 
-I am a Java and Microsoft certified Azure developer with 6+ years of experience in Retail, Banking and Financial domains, having good knowledge of Java, Spring, microservices, MS Azure, Azure DevOps, REST architectures, Cloud Data Migration and Management. 
+In 2024, I earned the CNCF Kubestronaut title — recognizing deep expertise in Kubernetes and cloud-native technologies.
 
-I'm passionate to learn about emerging technologies in microservice architecture and cloud computing.
+Passionate about clean code, real-world problem-solving, and modern DevOps, I’m on a continuous journey of learning and sharing through this blog.
 
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaynarayanan-it&label=Profile%20views&color=0e75b6&style=flat" alt="vijaynarayanan-it" /> </p>
-
-- 🌱 I’m currently learning **kubernetes, kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vijaynarayanan-it](https://github.com/vijaynarayanan-it)
 
