@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijay Narayanan</h1>
 
-I’m a backend engineer with 7+ years of experience in the Finance domain, with a focus on banking solutions, building secure and scalable applications using Java, Spring, and microservices. As a certified Azure Developer, I’ve led successful cloud migrations and data management projects.
+I’m a backend engineer with 8+ years of experience in the Finance domain, with a focus on banking solutions, building secure and scalable applications using Java, Spring, and microservices. As a certified Azure Developer, I’ve led successful cloud migrations and data management projects.
 
 In 2024, I earned the CNCF Kubestronaut title — recognizing deep expertise in Kubernetes and cloud-native technologies.
 
